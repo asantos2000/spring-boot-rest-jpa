@@ -1,0 +1,10 @@
+{
+  "amount": 1, 
+  "book": {
+    "description": "ActiveMQ in Action", 
+    "id": 2, 
+    "item": "ActiveMQ"
+  }, 
+  "id": 6, 
+  "processed": true
+}
